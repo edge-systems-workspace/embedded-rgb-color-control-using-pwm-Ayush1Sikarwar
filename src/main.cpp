@@ -2,7 +2,7 @@
 /**
  * @file main.cpp
  * @brief Embedded RGB LED Control (Digital + PWM)
- * @author Praveen Kumar Sharma [Praveen2005OP]
+ * @author Ayush kumar Sikarwar
  * @date 19-02-2026
  *
  * @details
